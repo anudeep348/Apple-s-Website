@@ -10,4 +10,8 @@ For Tracking and findng the performance of the app we are going to use **Sentry*
 
 -tailwindcss [https://tailwindcss.com/docs/guides/vite]
 
+-GSAP [https://gsap.com/]
+
 -GSAP/react [https://gsap.com/resources/React/]
+
+-React Three Fiber [https://docs.pmnd.rs/react-three-fiber/getting-started/introduction]
