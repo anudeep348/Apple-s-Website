@@ -9,3 +9,5 @@ For Tracking and findng the performance of the app we are going to use **Sentry*
 - React vite[https://vitejs.dev/]
 
 -tailwindcss [https://tailwindcss.com/docs/guides/vite]
+
+-GSAP/react [https://gsap.com/resources/React/]
