@@ -1,5 +1,7 @@
 function Hero() {
-  return <div>Hero</div>;
+  return (
+    <section className="w-full nav-height bg-black relative">Hero</section>
+  );
 }
 
 export default Hero;
