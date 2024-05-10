@@ -2,7 +2,7 @@
 
 In this Project for animating we gonna use **GSAP** and for 3D animations we gonna use **Three.js**
 
-For Tracking and findng the performance of the app we are going to use **Sentry**
+For Tracking and findng the performance of the app we are going to use Sentry
 
 ## Let's see the tech stack wee are using
 
